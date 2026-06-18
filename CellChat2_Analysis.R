@@ -183,7 +183,7 @@ for (i in 1:length(object.list)) {
 dev.off()
 
 
-# Pairwise Pathway Strength Visualization (WT Only) ----------------------------
+# Pairwise Pathway Strength Visualization --------------------------------------
 Pathway.df <- subsetCommunication(cellchat_WT, slot.name = "netP")
 
 plot_pathway_dotplot <- function(df, src, tgt, title_text) {
