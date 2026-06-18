@@ -183,7 +183,7 @@ dir.create("codes/Review/3.1.scCODA/", recursive = TRUE, showWarnings = FALSE)
 write.csv(E145_Tropho_meta, "codes/Review/3.1.scCODA/E145_Tropho_cell_metadata_for_sccoda.csv", quote = FALSE, row.names = FALSE)
 
 
-# 02.Visualization from scCODA Results
+# Visualization from scCODA Results
 # Note: scCODA statistical model was executed via Python (scCODA_Analysis.py)
 df <- read.csv("codes/Review/3.1.scCODA/scCODA_result.csv", stringsAsFactors = FALSE)
 colnames(df) <- c("Covariate", "CellType", "FinalParameter", "HDI_3", "HDI_97", "SD", "Inclusion_prob", "Expected_Sample", "Log2FC")
