@@ -21,7 +21,6 @@ Options:
 EOF
 }
 
-
 function exit1(){ 
     echo "ERROR: $1" >&2
     exit 1
