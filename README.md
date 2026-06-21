@@ -5,7 +5,7 @@ This repository contains the computational pipelines and analytical workflows fo
 ---
 
 ## Data and Results
-Raw input datasets, as well as processed h5, count matrix, metadata, and bigWig files, are available at GSE305963.
+Raw input datasets, as well as processed h5, count matrix, metadata, and BigWig files, are available at GSE305963.
 
 ---
 
