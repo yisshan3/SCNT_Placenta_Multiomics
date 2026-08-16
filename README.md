@@ -9,6 +9,10 @@ Raw input datasets, as well as processed h5, count matrix, metadata, and BigWig 
 
 ---
 
+## Publication
+The manuscript is now available at [Nature Communications](https://www.nature.com/articles/s41467-026-75623-3).
+
+---
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
